@@ -1,0 +1,51 @@
+career,stream,description,skills,salary_range,growth_outlook
+Software Engineer,Science,"Design and build software applications and systems. One of the highest-demand careers globally.","programming, problem solving, mathematics, algorithms, data structures, logical thinking",₹4L–₹30L+,Excellent
+Data Scientist,Science,"Analyze large datasets to extract insights and build predictive models using statistics and ML.","mathematics, statistics, programming, machine learning, data analysis, Python, R",₹6L–₹35L+,Excellent
+Doctor (MBBS),Science,"Diagnose and treat patients, perform surgeries, and promote health and wellness.","biology, chemistry, empathy, communication, critical thinking, dedication",₹8L–₹50L+,Excellent
+Civil Engineer,Science,"Plan, design, and oversee construction of infrastructure like roads, bridges, and buildings.","mathematics, physics, drawing, problem solving, project management",₹3.5L–₹20L,Good
+Mechanical Engineer,Science,"Design and develop mechanical systems, machines, and manufacturing processes.","physics, mathematics, CAD, problem solving, creativity",₹3.5L–₹18L,Good
+Electrical Engineer,Science,"Design and develop electrical systems, circuits, and electronic devices.","physics, mathematics, electronics, circuits, programming",₹4L–₹20L,Good
+Aerospace Engineer,Science,"Design aircraft, spacecraft, and related systems. Works with cutting-edge technology.","physics, mathematics, aerodynamics, CAD, problem solving",₹5L–₹25L,Good
+Biotechnologist,Science,"Apply biological systems and organisms to develop products in medicine and agriculture.","biology, chemistry, research, laboratory skills, genetics",₹3L–₹15L,Good
+Pharmacist,Science,"Prepare and dispense medications, counsel patients on drug use and interactions.","chemistry, biology, communication, attention to detail",₹3L–₹12L,Good
+Environmental Scientist,Science,"Study environmental problems and develop solutions to protect the environment.","biology, chemistry, fieldwork, data analysis, report writing",₹3L–₹12L,Good
+Architect,Science,"Design buildings and structures that are functional, safe, and aesthetically pleasing.","drawing, creativity, mathematics, CAD, spatial thinking, design",₹4L–₹20L,Good
+Cybersecurity Analyst,Science,"Protect computer systems and networks from digital attacks and security breaches.","programming, networking, problem solving, ethical hacking, attention to detail",₹5L–₹25L,Excellent
+AI/ML Engineer,Science,"Build artificial intelligence and machine learning models to automate tasks and decision-making.","mathematics, programming, machine learning, statistics, Python",₹8L–₹40L+,Excellent
+Statistician,Science,"Collect, analyze, and interpret numerical data to solve real-world problems.","mathematics, statistics, data analysis, programming, communication",₹4L–₹20L,Good
+Geologist,Science,"Study the Earth's structure, composition, and processes to understand its history.","geography, chemistry, fieldwork, data analysis, report writing",₹3L–₹12L,Moderate
+Chartered Accountant (CA),Commerce,"Manage financial accounts, auditing, taxation, and financial planning for organizations.","mathematics, accounting, finance, attention to detail, analytical thinking",₹5L–₹30L+,Excellent
+Business Manager / MBA,Commerce,"Lead teams, manage operations, and drive business strategy and growth.","leadership, communication, problem solving, finance, management",₹5L–₹25L,Excellent
+Investment Banker,Commerce,"Help companies raise capital, manage mergers, and provide financial advisory services.","finance, mathematics, communication, analytical thinking, networking",₹8L–₹50L+,Good
+Marketing Manager,Commerce,"Plan and execute marketing campaigns to promote products and grow brand awareness.","creativity, communication, data analysis, social media, market research",₹4L–₹20L,Good
+HR Manager,Commerce,"Recruit, train, and manage employees while ensuring a positive work environment.","communication, empathy, leadership, organization, problem solving",₹3.5L–₹15L,Good
+Supply Chain Manager,Commerce,"Oversee the production flow of goods from raw materials to final products.","logistics, organization, problem solving, communication, data analysis",₹4L–₹18L,Good
+Financial Analyst,Commerce,"Evaluate investment opportunities and advise clients or companies on financial decisions.","finance, mathematics, data analysis, communication, attention to detail",₹4L–₹20L,Good
+E-Commerce Entrepreneur,Commerce,"Build and run online businesses selling products or services through digital platforms.","business, marketing, technology, communication, creativity, risk-taking",₹Variable,Excellent
+Tax Consultant,Commerce,"Help individuals and businesses minimize tax liability and comply with tax laws.","accounting, finance, law, attention to detail, communication",₹3L–₹15L,Good
+Actuary,Commerce,"Analyze financial risks using mathematics and statistics, primarily in insurance.","mathematics, statistics, finance, analytical thinking, programming",₹5L–₹25L,Good
+Economist,Commerce,"Study production, distribution, and consumption of goods and services to advise policy.","mathematics, statistics, research, writing, analytical thinking",₹4L–₹20L,Good
+Retail Manager,Commerce,"Oversee store operations, manage staff, and ensure customer satisfaction.","communication, leadership, organization, customer service, sales",₹2.5L–₹10L,Moderate
+Lawyer / Advocate,Arts,"Represent clients in legal matters, provide legal advice, and argue cases in court.","communication, research, critical thinking, writing, persuasion",₹3L–₹30L+,Good
+Journalist,Arts,"Investigate and report news stories through print, broadcast, or digital media.","writing, communication, research, curiosity, networking",₹2.5L–₹10L,Moderate
+Graphic Designer,Arts,"Create visual content for branding, advertising, publications, and digital media.","creativity, design, drawing, software tools, communication",₹2.5L–₹12L,Good
+Content Writer,Arts,"Write articles, blogs, scripts, and other content for digital and print media.","writing, research, creativity, communication, SEO knowledge",₹2L–₹10L,Good
+Social Worker,Arts,"Help individuals and communities overcome challenges and improve their quality of life.","empathy, communication, problem solving, patience, social skills",₹2L–₹8L,Good
+Teacher / Educator,Arts,"Educate students at various levels, developing their knowledge and character.","communication, patience, subject knowledge, creativity, leadership",₹2.5L–₹10L,Good
+Psychologist,Arts,"Study human behavior and mental processes to help people overcome psychological issues.","empathy, communication, research, patience, critical thinking",₹3L–₹15L,Good
+Fashion Designer,Arts,"Create clothing and accessories, setting trends in the fashion industry.","creativity, drawing, design, sewing, trend awareness, communication",₹2.5L–₹15L,Good
+Filmmaker / Director,Arts,"Conceptualize and direct films, documentaries, or video content.","creativity, storytelling, communication, leadership, technical skills",₹Variable,Good
+Animator,Arts,"Create animation for films, games, TV shows, and digital media using software tools.","creativity, drawing, software skills, storytelling, patience",₹3L–₹15L,Good
+Photographer,Arts,"Capture images professionally for events, media, fashion, or artistic purposes.","creativity, technical skills, composition, editing, communication",₹2L–₹10L,Moderate
+UX/UI Designer,Arts,"Design user interfaces and experiences for websites and apps to maximize usability.","creativity, design, empathy, software tools, problem solving",₹4L–₹20L,Excellent
+Public Relations Officer,Arts,"Manage the public image of organizations through media and communication strategies.","communication, writing, networking, creativity, strategic thinking",₹3L–₹12L,Good
+Event Manager,Arts,"Plan and coordinate events like conferences, weddings, and cultural programs.","organization, communication, creativity, leadership, problem solving",₹2.5L–₹12L,Good
+Hotel Manager,Arts,"Oversee all operations of a hotel including staff, services, and guest satisfaction.","communication, leadership, organization, customer service, management",₹3L–₹15L,Good
+Yoga Instructor,Arts,"Teach yoga practices to improve physical and mental health of students.","health and fitness, communication, patience, body awareness, empathy",₹1.5L–₹8L,Good
+Interior Designer,Arts,"Plan and design interior spaces to be functional, safe, and visually appealing.","creativity, drawing, spatial thinking, design, client communication",₹3L–₹15L,Good
+Sports Coach,Arts,"Train athletes or teams to improve their skills and performance in sports.","sports knowledge, communication, leadership, motivation, fitness",₹2L–₹10L,Good
+Nutritionist / Dietitian,Science,"Advise individuals on food and nutrition to improve health and manage diseases.","biology, health knowledge, communication, empathy, planning",₹2.5L–₹10L,Good
+Product Manager,Commerce,"Lead product development from conception to launch, working with tech and business teams.","communication, leadership, data analysis, problem solving, business acumen",₹6L–₹30L+,Excellent
+Digital Marketing Specialist,Commerce,"Run online marketing campaigns across social media, SEO, email, and paid ads.","creativity, data analysis, communication, social media, marketing",₹3L–₹15L,Excellent
+Game Developer,Science,"Design and program video games for consoles, PCs, or mobile platforms.","programming, creativity, mathematics, problem solving, game design",₹4L–₹20L,Good
+Wildlife Biologist,Science,"Study animals and their ecosystems to help conserve wildlife and natural habitats.","biology, fieldwork, research, patience, writing, data analysis",₹2.5L–₹10L,Moderate
